@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mesto-react/precache-manifest.e1d9583054be1e6081ae463dae936475.js"
+  "/mesto-react/precache-manifest.478fff40c103b68040e150f6dce5bb21.js"
 );
 
 self.addEventListener('message', (event) => {
